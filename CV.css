@@ -1,0 +1,11 @@
+.CV {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    background-color: #F1F3F4;
+}
+.CV_picture {
+    width: 60%;
+    height: auto;
+}
